@@ -1,3 +1,11 @@
+--[[
+
+Some Games Not Available to here.
+If then, Please Go to This Website: https://raw.githubusercontent.com/AminIsWinnerA/NoBytecodeDarkHub/main/Init
+or Use loadstring(game:HttpGet("https://raw.githubusercontent.com/AminIsWinnerA/NoBytecodeDarkHub/main/Init", true))()
+
+--]]
+
 if game.GameId == 2377868063 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AminIsWinnerA/NoBytecodeDarkHub/main/Init", true))()
     return
